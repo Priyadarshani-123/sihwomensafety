@@ -1,0 +1,346 @@
+name,latitude,longitude,contact_number
+Central Police Station,40.712776,-74.005974,1000000001
+North District Police Station,40.7580,-73.9855,1000000002
+South District Police Station,40.730610,-73.935242,1000000003
+East Side Police Station,40.749825,-73.987963,1000000004
+West Side Police Station,40.743980,-73.980631,1000000005
+Downtown Police Station,40.7074,-74.0120,1000000006
+Uptown Police Station,40.7902,-73.9597,1000000007
+Midtown Police Station,40.7540,-73.9845,1000000008
+Brooklyn Police Station,40.6782,-73.9442,1000000009
+Queens Police Station,40.7282,-73.7949,1000000010
+Greater Noida Police Station,28.4845,77.5089,968764
+Alpha 1 Police Station,28.5010,77.4944,4575746
+Beta 2 Police Station,28.5162,77.4873,4654656
+Delta 1 Police Station,28.4858,77.4922,6786898
+Knowledge Park Police Station,28.4964,77.5166,568585
+Surajpur Police Station,28.4789,77.5238,5754645
+Dadri Police Station,28.4841,77.5706,456456
+Noida Sector 58 Police Station,28.5702,77.3573,576789
+Noida Sector 62 Police Station,28.5645,77.3192,567890
+Noida Sector 71 Police Station,28.5553,77.3436,568901
+Noida Sector 15 Police Station,28.5721,77.3288,569012
+Noida Sector 18 Police Station,28.5784,77.3195,570123
+Noida Sector 22 Police Station,28.5832,77.3311,571234
+Noida Sector 27 Police Station,28.5936,77.3487,572345
+Noida Sector 63 Police Station,28.5647,77.3193,573456
+Noida Sector 64 Police Station,28.5635,77.3221,574567
+Noida Sector 73 Police Station,28.5492,77.3628,575678
+Noida Sector 76 Police Station,28.5393,77.3442,576789
+Noida Sector 82 Police Station,28.5238,77.3360,577890
+Noida Sector 93 Police Station,28.5270,77.3687,578901
+Park Avenue Police Station,28.4900,77.5011,579012
+City Center Police Station,28.4955,77.5142,580123
+Noida Extension Police Station,28.5042,77.5080,581234
+Tech Zone Police Station,28.4847,77.4886,582345
+Gr Noida West Police Station,28.5073,77.5160,583456
+Gautam Budh Nagar Police Station,28.4876,77.5201,584567
+Ecotech Police Station,28.4888,77.5023,585678
+Omicron Police Station,28.4775,77.4924,586789
+Chi 2 Police Station,28.4968,77.5113,587890
+Chi 3 Police Station,28.4874,77.5000,588901
+Vaishali Police Station,28.4927,77.5075,589012
+Sectors 1 Police Station,28.4842,77.5077,590123
+Sectors 2 Police Station,28.4790,77.5168,591234
+Sectors 3 Police Station,28.4851,77.5030,592345
+Sectors 4 Police Station,28.4902,77.5154,593456
+Sectors 5 Police Station,28.4980,77.5095,594567
+Sectors 6 Police Station,28.4956,77.5118,595678
+Sectors 7 Police Station,28.4857,77.4905,596789
+Sectors 8 Police Station,28.4908,77.4967,597890
+Connaught Place Police Station,28.6280,77.2090,598901
+Kalkaji Police Station,28.5468,77.2578,599012
+Rohini Sector 9 Police Station,28.7119,77.0627,600123
+Dwarka Sector 23 Police Station,28.5705,77.0275,601234
+Janakpuri Police Station,28.6143,77.0886,602345
+South Extension Police Station,28.5851,77.2173,603456
+Vasant Kunj Police Station,28.5260,77.1343,604567
+Saket Police Station,28.5141,77.2038,605678
+Lajpat Nagar Police Station,28.5807,77.2311,606789
+Karol Bagh Police Station,28.6512,77.2074,607890
+Vikas Puri Police Station,28.6156,77.0851,608901
+Patel Nagar Police Station,28.6350,77.1395,609012
+Azadpur Police Station,28.7021,77.1580,610123
+Maharani Bagh Police Station,28.5724,77.2486,611234
+Civil Lines Police Station,28.6637,77.2144,612345
+Preet Vihar Police Station,28.6292,77.2852,613456
+Shalimar Bagh Police Station,28.7190,77.1296,614567
+Ghaziabad Police Station,28.6650,77.4337,615678
+Faridabad Sector 15 Police Station,28.4088,77.3082,616789
+Noida Sector 18 Police Station,28.5784,77.3195,617890
+Lucknow Police Station,26.8467,80.9462,618901
+Kanpur Police Station,26.4499,80.3319,619012
+Agra Police Station,27.1767,78.0086,620123
+Varanasi Police Station,25.3176,82.9739,621234
+Meerut Police Station,28.9845,77.7062,622345
+Allahabad Police Station,25.4358,81.8463,623456
+Bareilly Police Station,28.3705,79.4304,624567
+Gorakhpur Police Station,26.7606,83.3732,625678
+Jhansi Police Station,25.4484,78.5673,626789
+Aligarh Police Station,27.8974,78.0880,627890
+Moradabad Police Station,28.8382,78.7760,628901
+Fatehpur Police Station,25.8182,80.8279,629012
+Saharanpur Police Station,29.9656,77.5456,630123
+Muzaffarnagar Police Station,29.4678,77.6736,631234
+Shahjahanpur Police Station,27.8913,79.9116,632345
+Etawah Police Station,26.7751,79.0178,633456
+Raebareli Police Station,26.2270,81.2505,634567
+Pilibhit Police Station,28.6414,79.8008,635678
+Budaun Police Station,28.0292,79.1181,636789
+Sitapur Police Station,27.5686,80.6295,637890
+Basti Police Station,26.7911,82.1534,638901
+Unnao Police Station,26.5567,80.5307,639012
+Hardoi Police Station,27.3996,80.1140,640123
+Bahraich Police Station,27.5720,81.6060,641234
+Prayagraj Police Station,25.4478,81.8413,642345
+Rampur Police Station,28.7974,79.0224,643456
+Hapur Police Station,28.7150,77.7812,644567
+Jhansi Police Station,25.4484,78.5673,645678
+Kushinagar Police Station,26.7490,83.4070,646789
+Kanpur Dehat Police Station,26.4450,79.9680,647890
+Sultanpur Police Station,26.2478,82.0687,9912345678
+Gonda Police Station,27.1338,81.9652,9912345679
+Bijnor Police Station,28.8874,78.5605,9912345680
+Hathras Police Station,27.5927,78.0511,9912345681
+Amroha Police Station,28.9000,78.4674,9912345682
+Sonbhadra Police Station,24.6924,83.0222,9912345683
+Chitrakoot Police Station,25.1765,80.8398,9912345684
+Ayodhya Police Station,26.7960,82.2028,9912345685
+Mirzapur Police Station,25.1456,82.5636,9912345686
+Ballia Police Station,25.7473,84.1598,9912345687
+Deoria Police Station,26.4612,83.7822,9912345688
+Faizabad Police Station,26.7745,82.1506,9912345689
+Sambhal Police Station,28.5522,78.5445,9912345690
+Lakhimpur Kheri Police Station,27.9357,80.7801,9912345691
+Kheri Police Station,27.8079,80.7754,9912345692
+Gorakhpur Police Station,26.7606,83.3732,9912345693
+Etawah Police Station,26.7751,79.0178,9912345694
+Hajipur Police Station,25.7020,81.8337,9912345695
+Sitapur Police Station,27.5686,80.6295,9912345696
+Bulandshahr Police Station,28.4036,77.8148,9912345697
+Mirzapur Police Station,25.1456,82.5636,9912345698
+Shahjahanpur Police Station,27.8913,79.9116,9912345699
+Kanpur Nagar Police Station,26.4499,80.3319,9912345700
+Azamgarh Police Station,26.0774,83.1836,9912345701
+Firozabad Police Station,27.1556,78.3872,9912345702
+Lalitpur Police Station,24.6881,78.3985,9912345703
+Ghazipur Police Station,25.5802,83.5800,9912345704
+Mahoba Police Station,25.2934,79.8753,9912345705
+Jhansi Police Station,25.4484,78.5673,9912345706
+Balrampur Police Station,27.3846,81.8772,9912345707
+Kasganj Police Station,27.6006,78.6680,9912345708
+Kannauj Police Station,27.0591,79.9294,9912345709
+Rampur Police Station,28.7974,79.0224,9912345710
+Farrukhabad Police Station,27.4095,79.5517,9912345711
+Kushinagar Police Station,26.7490,83.4070,9912345712
+Kheri Police Station,27.8079,80.7754,9912345713
+Basti Police Station,26.7911,82.1534,9912345714
+Sultanpur Police Station,26.2478,82.0687,9912345715
+Banda Police Station,25.4587,80.3316,9912345716
+Mathura Police Station,27.5230,77.6728,9912345717
+Pilibhit Police Station,28.6414,79.8008,9912345718
+Sitapur Police Station,27.5686,80.6295,9912345719
+Muzaffar Nagar Police Station,29.4678,77.6736,9912345720
+Bahraich Police Station,27.5720,81.6060,9912345721
+Shahjahanpur Police Station,27.8913,79.9116,9912345722
+Lakhimpur Kheri Police Station,27.9357,80.7801,9912345723
+Budaun Police Station,28.0292,79.1181,9912345724
+Bareilly Police Station,28.3705,79.4304,9912345725
+Fatehpur Police Station,25.8182,80.8279,9912345726
+Kanpur Dehat Police Station,26.4450,79.9680,9912345727
+Ghaziabad Police Station,28.6650,77.4337,9912345728
+Noida Police Station,28.5355,77.3910,9912345729
+Gautam Budh Nagar Police Station,28.4858,77.5098,9912345730
+Faridabad Police Station,28.4088,77.3082,9912345731
+Sonbhadra Police Station,24.6924,83.0222,9912345732
+Chandauli Police Station,25.5170,83.0858,9912345733
+Balrampur Police Station,27.3846,81.8772,9912345734
+Basti Police Station,26.7911,82.1534,9912345735
+Deoria Police Station,26.4612,83.7822,9912345736
+Mahoba Police Station,25.2934,79.8753,9912345737
+Hapur Police Station,28.7150,77.7812,9912345738
+Sambhal Police Station,28.5522,78.5445,9912345739
+Moradabad Police Station,28.8382,78.7760,9912345740
+Kashganj Police Station,27.6006,78.6680,9912345741
+Mirzapur Police Station,25.1456,82.5636,9912345742
+Lalitpur Police Station,24.6881,78.3985,9912345743
+Ghazipur Police Station,25.5802,83.5800,9912345744
+Azamgarh Police Station,26.0774,83.1836,9912345745
+Firozabad Police Station,27.1556,78.3872,9912345746
+Agra Police Station,27.1767,78.0086,9912345747
+Jhansi Police Station,25.4484,78.5673,9912345748
+Unnao Police Station,26.5567,80.5307,9912345749
+Raebareli Police Station,26.2270,81.2505,9912345750
+Saharanpur Police Station,29.9656,77.5456,9912345751
+Gorakhpur Police Station,26.7606,83.3732,9912345752
+Etawah Police Station,26.7751,79.0178,9912345753
+Hardoi Police Station,27.3996,80.1140,9912345754
+Bahraich Police Station,27.5720,81.6060,9912345755
+Prayagraj Police Station,25.4478,81.8413,9912345756
+Rampur Police Station,28.7974,79.0224,9912345757
+Hapur Police Station,28.7150,77.7812,9912345758
+Kushinagar Police Station,26.7490,83.4070,9912345759
+Kanpur Dehat Police Station,26.4450,79.9680,9912345760
+Sultanpur Police Station,26.2478,82.0687,9912345761
+Gonda Police Station,27.1338,81.9652,9912345762
+Bijnor Police Station,28.8874,78.5605,9912345763
+Hathras Police Station,27.5927,78.0511,9912345764
+Amroha Police Station,28.9000,78.4674,9912345765
+Sonbhadra Police Station,24.6924,83.0222,9912345766
+Chitrakoot Police Station,25.1765,80.8398,9912345767
+Ayodhya Police Station,26.7960,82.2028,9912345768
+Mirzapur Police Station,25.1456,82.5636,9912345769
+Ballia Police Station,25.7473,84.1598,9912345770
+Deoria Police Station,26.4612,83.7822,9912345771
+Faizabad Police Station,26.7745,82.1506,9912345772
+Sambhal Police Station,28.5522,78.5445,9912345773
+Patna Police Station,25.5941,85.1376,9912345774
+Gaya Police Station,24.7964,84.9991,9912345775
+Bhagalpur Police Station,25.2546,87.0286,9912345776
+Muzaffarpur Police Station,26.1212,85.3583,9912345777
+Darbhanga Police Station,26.1525,85.8904,9912345780
+Munger Police Station,25.3778,85.9108,9912345781
+Purnia Police Station,25.7738,87.4692,9912345782
+Sasaram Police Station,24.4644,84.0391,9912345783
+Siwan Police Station,26.2214,84.3578,9912345784
+Motihari Police Station,26.6586,84.9161,9912345785
+Katihar Police Station,25.5307,87.5806,9912345786
+Chhapra Police Station,25.7664,84.7430,9912345787
+Arrah Police Station,25.5587,84.6540,9912345788
+Nawada Police Station,24.9028,85.4380,9912345789
+Bettiah Police Station,26.8153,84.5750,9912345790
+Jamui Police Station,24.9324,86.2204,9912345791
+Lakhisarai Police Station,25.1825,85.7320,9912345792
+Kishanganj Police Station,26.0787,87.9542,9912345793
+Begusarai Police Station,25.4190,86.1391,9912345794
+Aurangabad Police Station,24.7582,84.4141,9912345795
+Bhagalpur City Police Station,25.2546,87.0286,9912345796
+Samastipur Police Station,25.8624,85.7794,9912345797
+Sheikhpura Police Station,25.2201,85.8280,9912345798
+Vaishali Police Station,25.6742,85.2024,9912345799
+Buxar Police Station,25.5640,84.0495,9912345800
+Bihar Sharif Police Station,25.2117,85.4158,9912345801
+Saran Police Station,25.8056,84.4814,9912345802
+Kaimur Police Station,24.6262,83.6174,9912345803
+Gopalganj Police Station,26.4892,84.4312,9912345804
+Jehanabad Police Station,25.1894,84.9632,9912345805
+Lalganj Police Station,25.5660,85.7267,9912345806
+Nawada City Police Station,24.9028,85.4380,9912345807
+Patna City Police Station,25.5941,85.1376,9912345808
+Khagaria Police Station,25.3828,86.5873,9912345809
+Madhubani Police Station,26.3664,86.0694,9912345810
+Jamui City Police Station,24.9324,86.2204,9912345811
+Raxaul Police Station,26.6896,84.8601,9912345812
+Banka Police Station,24.7512,86.9735,9912345813
+Bhagalpur West Police Station,25.2546,87.0286,9912345814
+Siwan City Police Station,26.2214,84.3578,9912345815
+Saran City Police Station,25.8056,84.4814,9912345816
+Samastipur City Police Station,25.8624,85.7794,9912345817
+Begusarai City Police Station,25.4190,86.1391,9912345818
+Purnia City Police Station,25.7738,87.4692,9912345819
+Aurangabad City Police Station,24.7582,84.4141,9912345820
+Munger City Police Station,25.3778,85.9108,9912345821
+Katihar City Police Station,25.5307,87.5806,9912345822
+Bettiah City Police Station,26.8153,84.5750,9912345823
+Darbhanga City Police Station,26.1525,85.8904,9912345824
+Gaya City Police Station,24.7964,84.9991,9912345825
+Motihari City Police Station,26.6586,84.9161,9912345826
+Kishanganj City Police Station,26.0787,87.9542,9912345827
+Chhapra City Police Station,25.7664,84.7430,9912345828
+Arrah City Police Station,25.5587,84.6540,9912345829
+Nawada City Police Station,24.9028,85.4380,9912345830
+Lakhisarai City Police Station,25.1825,85.7320,9912345831
+Sheikhpura City Police Station,25.2201,85.8280,9912345832
+Vaishali City Police Station,25.6742,85.2024,9912345833
+Buxar City Police Station,25.5640,84.0495,9912345834
+Bihar Sharif City Police Station,25.2117,85.4158,9912345835
+Kaimur City Police Station,24.6262,83.6174,9912345836
+Gopalganj City Police Station,26.4892,84.4312,9912345837
+Jehanabad City Police Station,25.1894,84.9632,9912345838
+Lalganj City Police Station,25.5660,85.7267,9912345839
+Khagaria City Police Station,25.3828,86.5873,9912345840
+Madhubani City Police Station,26.3664,86.0694,9912345841
+Raxaul City Police Station,26.6896,84.8601,9912345842
+Banka City Police Station,24.7512,86.9735,9912345843
+Bihar Police Training College,25.5941,85.1376,9912345844
+Patna Junction Police Station,25.5967,85.1390,9912345845
+Pataliputra Police Station,25.5927,85.1465,9912345846
+Danapur Police Station,25.6195,85.1133,9912345847
+Patliputra Colony Police Station,25.5825,85.1854,9912345848
+S.K. Puri Police Station,25.5984,85.1275,9912345849
+Ashok Rajpath Police Station,25.6160,85.1264,9912345850
+Sabzibagh Police Station,25.5968,85.1321,9912345851
+Boring Road Police Station,25.6115,85.1375,9912345852
+Buddha Colony Police Station,25.6068,85.1653,9912345853
+Kankarbagh Police Station,25.6238,85.1554,9912345854
+Jaipur Police Station,26.9124,75.7873,9912345855
+Udaipur Police Station,24.5710,73.6915,9912345856
+Jodhpur Police Station,26.2389,73.0243,9912345857
+Kota Police Station,25.2138,75.8651,9912345858
+Bikaner Police Station,28.0229,73.3114,9912345859
+Ajmer Police Station,26.4574,74.6399,9923456780
+Alwar Police Station,27.0836,76.6140,9923456781
+Sikar Police Station,27.6100,75.1516,9923456782
+Barmer Police Station,25.7411,71.3712,9923456783
+Pali Police Station,25.7740,73.3295,9923456784
+Sawai Madhopur Police Station,26.0163,76.3650,9923456785
+Bundi Police Station,25.4427,75.6184,9923456786
+Jaisalmer Police Station,26.9124,70.7150,9923456787
+Rajasthan University Police Station,26.9132,75.7907,9923456788
+Chittorgarh Police Station,24.8792,74.6290,9923456789
+Dausa Police Station,26.8904,76.3508,9923456790
+Nagaur Police Station,27.2165,73.6830,9923456791
+Ratangarh Police Station,27.9052,73.8186,9923456792
+Sirohi Police Station,24.5912,72.8273,9923456793
+Bhilwara Police Station,25.3124,74.6354,9923456794
+Jhunjhunu Police Station,28.1170,75.4052,9923456795
+Rajsamand Police Station,25.0650,73.8433,9923456796
+Karauli Police Station,26.4914,77.0207,9923456797
+Mount Abu Police Station,24.5920,72.5784,9923456798
+Hanumangarh Police Station,29.3193,74.5678,9923456799
+Sri Ganganagar Police Station,29.9160,73.7983,9923456800
+Jhalawar Police Station,23.8007,76.1695,9923456801
+Banswara Police Station,23.5485,73.1714,9923456802
+Chandigarh Police Station,30.7333,76.7794,9923456803
+Faridabad Police Station,28.4082,77.3178,9923456804
+Gurugram Police Station,28.4595,77.0266,9923456805
+Ambala Police Station,30.3784,76.7760,9923456806
+Hisar Police Station,29.1486,75.7213,9923456807
+Rohtak Police Station,28.8931,76.6064,9923456808
+Panipat Police Station,29.3919,76.9684,9923456809
+Karnal Police Station,29.6856,76.9900,9923456810
+Sonipat Police Station,28.9936,77.0179,9923456811
+Jhajjar Police Station,28.5922,76.5978,9923456812
+Sirsa Police Station,29.5337,75.0268,9923456813
+Fatehabad Police Station,29.5180,75.4548,9923456814
+Panchkula Police Station,30.6954,76.8460,9923456815
+Kurukshetra Police Station,29.9675,76.7830,9923456816
+Yamunanagar Police Station,30.1328,77.2765,9923456817
+Hodal Police Station,28.3417,77.6900,9923456818
+Palwal Police Station,28.1717,77.3176,9923456819
+Narnaul Police Station,28.5555,76.1136,9923456820
+Jind Police Station,29.3179,76.2993,9923456821
+Mahendragarh Police Station,28.2676,76.1221,9923456822
+Bhopal Police Station,23.2599,77.4126,9923456823
+Indore Police Station,22.7196,75.8577,9923456824
+Gwalior Police Station,26.2183,78.1828,9923456825
+Jabalpur Police Station,23.1645,79.9554,9923456826
+Ujjain Police Station,23.1758,75.7678,9923456827
+Sagar Police Station,23.4732,78.6569,9923456828
+Rewa Police Station,24.5570,81.2987,9923456829
+Satna Police Station,24.5718,80.8324,9923456830
+Khandwa Police Station,21.8370,76.3456,9923456831
+Dewas Police Station,22.9664,76.0588,9923456832
+Ratlam Police Station,23.3308,75.0414,9923456833
+Shivpuri Police Station,25.4344,77.6716,9923456834
+Mandsaur Police Station,24.0640,75.0717,9923456835
+Chhindwara Police Station,22.0408,78.9382,9923456836
+Hoshangabad Police Station,22.7595,77.9640,9923456837
+Burhanpur Police Station,21.3114,76.2285,9923456838
+Pachmarhi Police Station,22.4847,78.3997,9923456839
+Sihora Police Station,23.1758,79.9461,9923456840
+Betul Police Station,21.9228,77.9640,9923456841
+Shahdol Police Station,23.2585,81.3672,9923456842
+Neemuch Police Station,24.6667,75.1833,9923456843
+Khargone Police Station,21.4327,75.3577,9923456844
+Balaghat Police Station,21.7764,80.1855,9923456845
